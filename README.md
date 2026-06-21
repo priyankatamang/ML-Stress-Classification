@@ -43,7 +43,7 @@ The input feature matrices ($X$) were evaluated using a 70/30 train-test split a
 
 | Model | Accuracy | Precision (Stressed) | Recall (Stressed) | F1-Score (Stressed) |
 | :--- | :---: | :---: | :---: | :---: |
-| **XGBoost** | **76.40%** | 0.83.3 | 0.88 | 0.84 |
+| **XGBoost** | **83.3%** | 0.82 | 0.88 | 0.84 |
 | **Random Forest** | **74.50%** | 0.73 | 0.99 | 0.84 |
 | **Linear Regression** | **67.60%** | 0.68 | 1.00 | 0.81 |
 | **Gradient Boosting** | **32.00%** | 0.00 | 0.00 | 0.00 |
