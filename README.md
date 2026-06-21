@@ -7,17 +7,29 @@ An end-to-end Machine Learning pipeline designed to detect human stress levels u
 ## Project Methodology & Workflow
 
 [Get Raw Dataset]
+
 ↓
+
 [Data Preprocessing & Cleansing] (Handled missing values & structured TSV format)
+
 ↓
+
 [Feature Engineering] (Extracted key timing, mapping, and behavioral metrics)
+
 ↓
+
 [Time Series Analysis]
+
 ↓
+
 [Model Training & Comparative Analysis] (Tested Logistic Regression, Random Forest, XGBoost, etc.)
+
 ↓
+
 [Feature Importance Evaluation] (Extracted common contributing features)
+
 ↓
+
 [Extended Evaluation] (Validated on secondary datasets for lightweight generalization)
 
 
